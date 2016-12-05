@@ -12,3 +12,5 @@ nginx代理配置名小写
 4、ie10中不支持vue自带的回车键事件
 
 5、xp只支持到ie8
+6、JavaScript易错知识点整理
+http://www.jianshu.com/p/1c77853d4f01
