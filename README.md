@@ -32,3 +32,5 @@ https://segmentfault.com/a/1190000007805673
   
 9、时间插件问题
 
+10 $.deferred解决非同步问题
+http://www.jb51.net/article/28054.htm
