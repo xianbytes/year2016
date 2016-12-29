@@ -2,7 +2,7 @@
 2016年的技术沉淀
 
 1、关于slider效果显示问题
-相关链接点击<a href="http://codepen.io/xianJohn/pen/zoWYZe?editors=1111">好看的slider</a>
+相关链接点击<a href="https://codepen.io/xianJohn/pen/zoWYZe?editors=1111">好看的slider</a>
 
 2、nginx
 nginx代理配置名小写
@@ -30,6 +30,6 @@ https://segmentfault.com/a/1190000007805673
   this.columnArrow = (boxWidth-this.pageNumber*itemWidth)/(this.pageNumber-1);
   nomr的让margin-righ为0px。</code>
 9、时间插件问题
-10 <a href="http://www.jb51.net/article/28054.htm">$.deferred解决非同步问题</a>
+10、<a href="https://www.jb51.net/article/28054.htm">deferred解决非同步问题</a>
 
 11.<a href="https://github.com/jsfront/month/blob/master/2016/201612.md">前端分享周报</a>
