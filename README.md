@@ -30,5 +30,6 @@ https://segmentfault.com/a/1190000007805673
   this.columnArrow = (boxWidth-this.pageNumber*itemWidth)/(this.pageNumber-1);
   nomr的让margin-righ为0px。</code>
 9、时间插件问题
-10 $.deferred解决非同步问题
-http://www.jb51.net/article/28054.htm
+10 <a href="http://www.jb51.net/article/28054.htm">$.deferred解决非同步问题</a>
+
+11.<a href="https://github.com/jsfront/month/blob/master/2016/201612.md">前端分享周报</a>
