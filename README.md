@@ -33,3 +33,23 @@ https://segmentfault.com/a/1190000007805673
 10、<a href="https://www.jb51.net/article/28054.htm">deferred解决非同步问题</a>
 
 11.<a href="https://github.com/jsfront/month/blob/master/2016/201612.md">前端分享周报</a>
+
+12、vue计算属性的重要性
+data: function() {
+        return {
+            isCanShow: true,
+            collectionBox: false,
+            resourceCollectFlag: false,
+            image: this.response?this.response.thumbnailsImg:"",
+            imageList: this.response?this.response.imageList:[],
+            count: -1
+        }
+    },
+    computed:{
+        imageUrl:function()
+        {
+            debugger
+            return this.response.thumbnailsImg+"ddd";
+        }
+    },
+    解决了filter不能解决的问题
