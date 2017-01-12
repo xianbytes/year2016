@@ -52,7 +52,8 @@ data: function() {
             return this.response.thumbnailsImg+"ddd";
         }
     },
-    解决了filter不能解决的问题</br>
+    解决了filter不能解决的问题</br><br>
+    
 13、vue2.0和1.0的区别
    <a href="http://www.imooc.com/article/14438">vue2.0和1.0的区别</a>
    a.目前的项目几乎每个页面都用到了1.0的ready钩子函数，然而2.0已废弃不用，进而使用mounted替换，同时还新增了beforeMount、beforeUpdate、updated等，私以为越来越向react看齐了有木有。。
