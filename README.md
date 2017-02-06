@@ -79,3 +79,5 @@ g.新增 v-once指令
 h.新增 propsData
 
 j.新增 render
+14、谷歌浏览器插件
+http://www.jeffjade.com/2017/01/23/118-chrome_awesome_plug-in/?from=segment
