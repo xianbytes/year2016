@@ -82,3 +82,6 @@ j.新增 render
 
 14、谷歌浏览器插件
 http://www.jeffjade.com/2017/01/23/118-chrome_awesome_plug-in/?from=segment
+
+15、解决浮点数计算的办法
+http://www.wdshare.org/article/56e7c94a0582906429d3126e
